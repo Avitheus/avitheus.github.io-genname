@@ -1,6 +1,6 @@
 # GenName - Username Generator
 
-GenName is a simple username generator built using HTML, CSS, and PHP. It generates unique usernames by combining random adjectives and nouns.
+GenName is a simple username generator built using HTML, CSS, JavaScript, and PHP. It generates unique usernames by combining random adjectives and nouns.
 
 ## Usage
 
